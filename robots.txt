@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tumainivalleyspringsschools.co.ke/sitemap.xml
